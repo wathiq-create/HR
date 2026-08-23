@@ -1,0 +1,6 @@
+{
+  "name": "الموارد البشرية",
+  "description": "نظام ERP متكامل لإدارة الموارد البشرية مع دعم العمل دون اتصال والمزامنة وسير العمل والموافقات والتقارير — إشراف ومتابعة أ.أحمد العمري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
